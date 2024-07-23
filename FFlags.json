@@ -1,5 +1,5 @@
 {
-    "Test" : true,
+    "EnableFreeFallSoundFix" : true,
     "PremiumBenefitsTokenRewardAmount" : 10000,
     "PremiumBenefitsGemRewardAmount" : 50
 }
