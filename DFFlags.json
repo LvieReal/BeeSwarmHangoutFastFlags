@@ -1,4 +1,7 @@
 {
+    "RollBackData" : false,
+    "RollBackDataTime" : 3600,
+    "RollBackDataInGameFlagName" : "DataRollBack1",
     "BeeSwarmSimulatorEventDeadline" : 1727643600,
     "RPNameMinChars" : 3,
     "RPNameMaxChars" : 45,
