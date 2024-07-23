@@ -1,4 +1,12 @@
 {
+    "MinimumAccountAgeDaysForChat" : 1,
+    "ChatNameFormat" : "[%s]:",
+    "ChatMessageRemovedText" : "Removed",
+    "ChatMessageNotDeliveredText" : "Message not delivered",
+    "ChatMessageRemovedFormat" : "<font transparency='0.5'><i>( %s )</i></font>",
+    "PolicyMessage" : "You're not permitted to do that because of account policy settings.",
+    "RobloxJobNameFormat" : "ROBLOX-%s",
+    "EnableChatTags" : true,
     "EnableFreeFallSoundFix" : true,
     "PremiumBenefitsTokenRewardAmount" : 10000,
     "PremiumBenefitsGemRewardAmount" : 50

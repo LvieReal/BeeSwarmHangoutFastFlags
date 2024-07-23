@@ -1,3 +1,10 @@
 {
+    "RPNameMinChars" : 3,
+    "RPNameMaxChars" : 45,
+    "BioMinChars" : 12,
+    "BioMaxChars" : 200,
+    "GuildNameMinChars" : 5,
+    "GuildNameMaxChars" : 25,
+    "GuildGemsCost" : 100000000000000,
     "EnableMeCommand" : true
 }
