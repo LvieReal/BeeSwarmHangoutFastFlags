@@ -12,8 +12,12 @@
     "AccountAgeJoinRestrictionDays" : 15,
     "EnableChatTags" : true,
     "EnableFreeFallSoundFix" : true,
+    "EnableInfiniteJumpWithMorphsFix" : true,
     "EnableVoidDipperBadge" : true,
     "WeirdHumanoidTypeChecking" : false,
+    "PvPSafeZoneDistance" : 50,
+    "PvPMaxBondFromDefeat" : 100,
+    "PvPMaxTokensFromDefeat" : 1000,
     "PremiumBenefitsTokenRewardAmount" : 10000,
     "PremiumBenefitsGemRewardAmount" : 50,
     "CloneTest" : false
