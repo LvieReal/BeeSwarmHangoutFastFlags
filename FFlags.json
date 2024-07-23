@@ -1,3 +1,5 @@
 {
-    "Test" : true
+    "Test" : true,
+    "PremiumBenefitsTokenRewardAmount" : 10000,
+    "PremiumBenefitsGemRewardAmount" : 50
 }
