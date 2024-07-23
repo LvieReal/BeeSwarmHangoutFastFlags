@@ -1,4 +1,6 @@
 {
+    "GameTimeZoneName" : "EEST",
+    "GameTimeZoneOffset" : 10800,
     "MinimumAccountAgeDaysForChat" : 1,
     "ChatNameFormat" : "[%s]:",
     "ChatMessageRemovedText" : "Removed",
@@ -6,8 +8,13 @@
     "ChatMessageRemovedFormat" : "<font transparency='0.5'><i>( %s )</i></font>",
     "PolicyMessage" : "You're not permitted to do that because of account policy settings.",
     "RobloxJobNameFormat" : "ROBLOX-%s",
+    "EnableAccountAgeJoinRestriction" : false,
+    "AccountAgeJoinRestrictionDays" : 15,
     "EnableChatTags" : true,
     "EnableFreeFallSoundFix" : true,
+    "EnableVoidDipperBadge" : true,
+    "WeirdHumanoidTypeChecking" : false,
     "PremiumBenefitsTokenRewardAmount" : 10000,
-    "PremiumBenefitsGemRewardAmount" : 50
+    "PremiumBenefitsGemRewardAmount" : 50,
+    "CloneTest" : false
 }
