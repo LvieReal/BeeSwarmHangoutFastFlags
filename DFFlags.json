@@ -1,4 +1,5 @@
 {
+    "EnableGameSunset" : false,
     "DataMaintenance" : false,
     "DataSessionLockTimeout" : 30,
     "DataRejoinSpamDuration" : 3,
