@@ -1,4 +1,12 @@
 {
+    "DataMaintenance" : false,
+    "DataSessionLockTimeout" : 30,
+    "DataRejoinSpamDuration" : 3,
+    "DataAutoSave" : true,
+    "DataAutoSaveCooldown" : 30,
+    "DataLoadTimeout" : 10,
+    "DataRetrySaveFailed" : false,
+    "DataMaxRetrySaveFailedAttempts" : 3,
     "RollBackData" : false,
     "RollBackDataTime" : 3600,
     "RollBackDataInGameFlagName" : "DataRollBack1",
