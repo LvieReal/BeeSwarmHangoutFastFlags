@@ -27,5 +27,6 @@
     "GlobalLeaderboardsPageQueueCooldown" : 10,
     "JoinSound" : "rbxassetid://17869431658",
     "EnableJoinSound" : true,
-    "EnableMeCommand" : true
+    "EnableMeCommand" : true,
+    "EnableModeratorApplyRequests" : true
 }
