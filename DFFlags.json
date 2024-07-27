@@ -28,5 +28,7 @@
     "JoinSound" : "rbxassetid://17869431658",
     "EnableJoinSound" : true,
     "EnableMeCommand" : true,
-    "EnableModeratorApplyRequests" : true
+    "EnableModeratorApplyRequests" : true,
+    "ModeratorApplyRequestMinimumPlaytime" : 172800,
+    "ModeratorApplyRequestLink" : "discord.gg/zXvHKQbZYY"
 }
