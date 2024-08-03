@@ -11,6 +11,7 @@
     "EnableAccountAgeJoinRestriction" : false,
     "AccountAgeJoinRestrictionDays" : 15,
     "EnableChatTags" : true,
+    "EnableInternalPanelLogs" : true,
     "EnableFreeFallSoundFix" : true,
     "EnableInfiniteJumpWithMorphsFix" : true,
     "EnableVoidDipperBadge" : true,

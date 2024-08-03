@@ -26,6 +26,7 @@
     "GlobalLeaderboardsUsernameGetCooldown" : 300,
     "GlobalLeaderboardsQueueCooldown" : 5,
     "GlobalLeaderboardsPageQueueCooldown" : 10,
+    "EnableFollowingBuddies" : true,
     "JoinSound" : "rbxassetid://17869431658",
     "EnableJoinSound" : true,
     "EnableMeCommand" : true,
