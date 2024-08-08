@@ -8,6 +8,7 @@
     "DataLoadTimeout" : 10,
     "DataRetrySaveFailed" : false,
     "DataMaxRetrySaveFailedAttempts" : 3,
+    "MinimumPlaytimeForLeaderboard" : 259200,
     "RollBackData" : false,
     "RollBackDataTime" : 3600,
     "RollBackDataInGameFlagName" : "DataRollBack1",
