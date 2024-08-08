@@ -30,6 +30,7 @@
     "EnableFollowingBuddies" : true,
     "JoinSound" : "rbxassetid://17869431658",
     "EnableJoinSound" : true,
+    "EnableChatInputBar" : true,
     "EnableMeCommand" : true,
     "EnableModeratorApplyRequests" : true,
     "ModeratorApplyRequestMinimumPlaytime" : 172800,
