@@ -16,6 +16,7 @@
     "EnableInfiniteJumpWithMorphsFix" : true,
     "EnableVoidDipperBadge" : true,
     "WeirdHumanoidTypeChecking" : false,
+    "BlenderBlendMaxItems" : 1000000,
     "BlenderBlendDefaultTime" : 30,
     "BlenderBlendDefaultAutoCompleteGems" : 1,
     "PvPSafeZoneDistance" : 50, 
