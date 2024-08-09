@@ -16,9 +16,12 @@
     "EnableInfiniteJumpWithMorphsFix" : true,
     "EnableVoidDipperBadge" : true,
     "WeirdHumanoidTypeChecking" : false,
+    "BlenderBlendDefaultTime" : 30,
+    "BlenderBlendDefaultAutoCompleteGems" : 1,
     "PvPSafeZoneDistance" : 50, 
     "PvPMaxBondFromDefeat" : 100,
     "PvPMaxTokensFromDefeat" : 1000,
+    "AllyCooldown" : 15,
     "PremiumBenefitsTokenRewardAmount" : 10000,
     "PremiumBenefitsGemRewardAmount" : 50,
     "CloneTest" : false
