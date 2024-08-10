@@ -10,7 +10,7 @@
     "DataMaxRetrySaveFailedAttempts" : 3,
     "MinimumPlaytimeForLeaderboard" : 43200,
     "RollBackData" : true,
-    "RollBackDataTime" : 7200,
+    "RollBackDataTime" : 1723244400,
     "RollBackDataInGameFlagName" : "DataRollBack1",
     "RollBackDataNote" : "Unexpected game changes",
     "MaxPlayerChatLogStatCount" : 200,
