@@ -8,6 +8,8 @@
     "DataLoadTimeout" : 10,
     "DataRetrySaveFailed" : false,
     "DataMaxRetrySaveFailedAttempts" : 3,
+    "BlockDeveloperAssociatedUsernames" : true,
+    "BlockDeveloperAssociatedUsernamesMessage" : "Your username impersonates the developer and is now blocked, this cannot be appealed.",
     "MinimumPlaytimeForLeaderboard" : 43200,
     "RollBackData" : true,
     "RollBackDataTime" : 1723244400,
