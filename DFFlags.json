@@ -16,6 +16,7 @@
     "RollBackDataInGameFlagName" : "DataRollBack2",
     "RollBackDataNote" : "Unexpected game changes",
     "MaxPlayerChatLogStatCount" : 200,
+    "EnableInternalPanelLogs" : true,
     "BeeSwarmSimulatorEventDeadline" : 1727643600,
     "RobuxShopShutdownDeadline" : 1708257600,
     "RPNameMinChars" : 3,
