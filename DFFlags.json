@@ -10,6 +10,7 @@
     "DataMaxRetrySaveFailedAttempts" : 3,
     "BlockDeveloperAssociatedUsernames" : true,
     "BlockDeveloperAssociatedUsernamesMessage" : "Your username impersonates the developer and is now blocked, this cannot be appealed.",
+    "CountryJoiningLockCanada" : true,
     "MinimumPlaytimeForLeaderboard" : 43200,
     "RollBackData" : false,
     "RollBackDataTime" : 1723244400,
