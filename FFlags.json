@@ -10,6 +10,8 @@
     "RobloxJobNameFormat" : "ROBLOX-%s",
     "EnableAccountAgeJoinRestriction" : false,
     "AccountAgeJoinRestrictionDays" : 15,
+    "EnableLettuceGamesArtifact" : true,
+    "LettuceGamesArtifactMinFirstJoin" : 1717189200,
     "EnableChatTags" : true,
     "EnableInternalPanelLogs" : true,
     "EnableFreeFallSoundFix" : true,
