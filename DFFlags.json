@@ -11,6 +11,8 @@
     "BlockDeveloperAssociatedUsernames" : true,
     "BlockDeveloperAssociatedUsernamesMessage" : "Your username impersonates the developer and is now blocked, this cannot be appealed.",
     "CountryJoiningLockCanada" : true,
+    "EnableLettuceGamesArtifact" : true,
+    "LettuceGamesArtifactMinFirstJoin" : 1717189200,
     "MinimumPlaytimeForLeaderboard" : 43200,
     "RollBackData" : false,
     "RollBackDataTime" : 1725519600,
