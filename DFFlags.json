@@ -18,7 +18,7 @@
     "RollBackDataNote" : "Bees Failure",
     "MaxPlayerChatLogStatCount" : 200,
     "EnableInternalPanelLogs" : true,
-    "BeeSwarmSimulatorEventDeadline" : 1727643600,
+    "BeeSwarmSimulatorEventDeadline" : 1728853200,
     "RobuxShopShutdownDeadline" : 1708257600,
     "RPNameMinChars" : 3,
     "RPNameMaxChars" : 45,
