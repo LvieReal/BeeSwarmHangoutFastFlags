@@ -32,7 +32,7 @@
     "GlobalLeaderboardsMaxValue" : 1000000000000000,
     "GlobalLeaderboardsUpdateCooldown" : 30,
     "GlobalLeaderboardsUsernameGetCooldown" : 300,
-    "GlobalLeaderboardsQueueCooldown" : 5,
+    "GlobalLeaderboardsQueueCooldown" : 10,
     "GlobalLeaderboardsPageQueueCooldown" : 10,
     "EnableFollowingBuddies" : true,
     "FlightKeyCode" : "Q",
