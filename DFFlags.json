@@ -31,7 +31,7 @@
     "GlobalLeaderboardsMinValue" : 0,
     "GlobalLeaderboardsMaxValue" : 1000000000000000,
     "GlobalLeaderboardsUpdateCooldown" : 30,
-    "GlobalLeaderboardsUsernameGetCooldown" : 300,
+    "GlobalLeaderboardsUsernameGetCooldown" : 1800,
     "GlobalLeaderboardsQueueCooldown" : 10,
     "GlobalLeaderboardsPageQueueCooldown" : 10,
     "GlobalLeaderboardsUpdateCacheCooldown" : 5,
