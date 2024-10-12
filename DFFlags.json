@@ -28,6 +28,7 @@
     "GuildNameMaxChars" : 25,
     "GuildGemsCost" : 100000000000000,
     "MutationBuffsGemCost" : 10,
+    "MaxRatedUsersSocialRating" : 1000,
     "GlobalLeaderboardsMinValue" : 0,
     "GlobalLeaderboardsMaxValue" : 1000000000000000,
     "GlobalLeaderboardsUpdateCooldown" : 30,
