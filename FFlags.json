@@ -8,6 +8,8 @@
     "ChatMessageRemovedFormat" : "<font transparency='0.5'><i>( %s )</i></font>",
     "PolicyMessage" : "You're not permitted to do that because of account policy settings.",
     "RobloxJobNameFormat" : "ROBLOX-%s",
+    "SystemChatMessageColor" : "#cccccc",
+    "SystemChatMessageErrorColor" : "#ff0000",
     "EnableAccountAgeJoinRestriction" : false,
     "AccountAgeJoinRestrictionDays" : 15,
     "EnableLettuceGamesArtifact" : true,
