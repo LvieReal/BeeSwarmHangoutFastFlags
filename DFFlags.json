@@ -46,5 +46,6 @@
     "EnableMeCommand" : true,
     "EnableModeratorApplyRequests" : true,
     "ModeratorApplyRequestMinimumPlaytime" : 172800,
-    "ModeratorApplyRequestLink" : "discord.gg/zXvHKQbZYY"
+    "ModeratorApplyRequestLink" : "discord.gg/zXvHKQbZYY",
+    "BaseDiscordServerLink" : "discord.gg/9p9pYfryAw"
 }
