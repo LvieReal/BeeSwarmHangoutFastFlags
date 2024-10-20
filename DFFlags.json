@@ -41,10 +41,10 @@
     "EnableFollowingBuddies" : true,
     "FlightKeyCode" : "Q",
     "JoinSound" : "rbxassetid://17869431658",
-    "EnableJoinSound" : true,
+    "EnableJoinSound" : false,
     "EnableChatInputBar" : true,
     "EnableMeCommand" : true,
-    "EnableModeratorApplyRequests" : true,
+    "EnableModeratorApplyRequests" : false,
     "ModeratorApplyRequestMinimumPlaytime" : 172800,
     "ModeratorApplyRequestLink" : "discord.gg/zXvHKQbZYY",
     "BaseDiscordServerLink" : "discord.gg/9p9pYfryAw"
