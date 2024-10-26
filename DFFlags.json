@@ -36,7 +36,6 @@
     "GlobalLeaderboardsUsernameGetCooldown" : 1800,
     "GlobalLeaderboardsQueueCooldown" : 10,
     "GlobalLeaderboardsPageQueueCooldown" : 10,
-    "GlobalLeaderboardsUpdateCacheCooldown" : 6,
     "EnableFollowingBuddies" : true,
     "FlightKeyCode" : "Q",
     "JoinSound" : "rbxassetid://17869431658",
