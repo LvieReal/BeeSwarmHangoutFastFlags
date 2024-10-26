@@ -45,5 +45,6 @@
     "EnableModeratorApplyRequests" : false,
     "ModeratorApplyRequestMinimumPlaytime" : 172800,
     "ModeratorApplyRequestLink" : "discord.gg/zXvHKQbZYY",
-    "BaseDiscordServerLink" : "discord.gg/9p9pYfryAw"
+    "BaseDiscordServerLink" : "discord.gg/9p9pYfryAw",
+    "DevTestPlaceId" : 5273083700
 }
