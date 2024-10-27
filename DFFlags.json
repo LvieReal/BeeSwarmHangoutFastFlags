@@ -6,8 +6,6 @@
     "DataAutoSave" : true,
     "DataAutoSaveCooldown" : 30,
     "DataLoadTimeout" : 10,
-    "DataRetrySaveFailed" : true,
-    "DataMaxRetrySaveFailedAttempts" : 3,
     "BlockDeveloperAssociatedUsernames" : true,
     "BlockDeveloperAssociatedUsernamesMessage" : "Your username impersonates the developer and is now blocked, this cannot be appealed.",
     "CountryJoiningLockCanada" : true,
