@@ -9,6 +9,7 @@
     "BlockDeveloperAssociatedUsernames" : true,
     "BlockDeveloperAssociatedUsernamesMessage" : "Your username impersonates the developer and is now blocked, this cannot be appealed.",
     "CountryJoiningLockCanada" : true,
+    "GameEventDeadline" : 1733346000,
     "MinimumPlaytimeForLeaderboard" : 43200,
     "RollBackData" : false,
     "RollBackDataTime" : 1726390800,
