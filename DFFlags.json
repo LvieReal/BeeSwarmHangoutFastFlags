@@ -40,7 +40,7 @@
     "FlightKeyCode" : "Q",
     "JoinSound" : "rbxassetid://17869431658",
     "EnableJoinSound" : false,
-    "FilterBlacklistedCharacters" : "239,191,184",
+    "FilterBlacklistedCharacters" : "",
     "EnableChatInputBar" : true,
     "EnableMeCommand" : true,
     "EnableModeratorApplyRequests" : false,
