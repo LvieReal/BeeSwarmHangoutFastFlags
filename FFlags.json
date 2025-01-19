@@ -12,6 +12,7 @@
     "SystemChatMessageErrorColor" : "#ff0000",
     "EnableAccountAgeJoinRestriction" : false,
     "AccountAgeJoinRestrictionDays" : 15,
+    "AnalyticsEnabled" : false,
     "EnableLettuceGamesArtifact" : true,
     "LettuceGamesArtifactMinFirstJoin" : 1717189200,
     "EnableChatTags" : true,
