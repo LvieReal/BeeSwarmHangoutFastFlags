@@ -37,7 +37,7 @@
     "GlobalLeaderboardsQueueCooldown" : 10,
     "GlobalLeaderboardsDataUpdateQueueCooldown" : 0.5,
     "EnableFollowingBuddies" : true,
-    "FlightKeyCode" : "Q",
+    "FlightKeyCode" : "F",
     "JoinSound" : "rbxassetid://17869431658",
     "EnableJoinSound" : false,
     "FilterBlacklistedCharacters" : "",
