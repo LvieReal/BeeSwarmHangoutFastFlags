@@ -3,6 +3,7 @@
     "GameTimeZoneOffset" : 10800,
     "MinimumAccountAgeDaysForChat" : 1,
     "ChatNameFormat" : "%s:",
+    "ChatTagFormat" : "%s",
     "ChatMessageRemovedText" : "Removed",
     "ChatMessageNotDeliveredText" : "Message not delivered",
     "ChatMessageRemovedFormat" : "<font transparency='0.5'><i>( %s )</i></font>",
