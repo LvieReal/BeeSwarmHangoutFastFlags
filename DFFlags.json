@@ -14,7 +14,7 @@
     "MinimumPlaytimeForLeaderboard" : 43200,
     "RollBackData" : false,
     "RollBackDataTime" : 1743213600,
-    "RollBackDataInGameFlagName" : "DataRollBack5",
+    "RollBackDataInGameFlagName" : "DataRollBack6",
     "RollBackDataNote" : "Buff Critical Bug",
     "MaxPlayerChatLogStatCount" : 200,
     "EnableInternalPanelLogs" : true,
