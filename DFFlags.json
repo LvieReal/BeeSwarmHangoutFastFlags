@@ -41,7 +41,7 @@
     "JoinSound" : "rbxassetid://17869431658",
     "EnableJoinSound" : false,
     "FilterBlacklistedCharacters" : "",
-    "EnableChatInputBar" : true,
+    "EnableChatInputBar" : false,
     "EnableMeCommand" : true,
     "EnableModeratorApplyRequests" : false,
     "ModeratorApplyRequestMinimumPlaytime" : 172800,
