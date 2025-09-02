@@ -1,5 +1,4 @@
 {
-    "EnableGameSunset": false,
     "DataMaintenance": false,
     "DataSessionLockTimeout": 30,
     "DataRejoinSpamDuration": 3,
@@ -11,6 +10,7 @@
     "CountryJoiningLockCanada": false,
     "CountryJoiningLockPhilippines": false,
     "CountryJoiningLockVietnam": false,
+    "GuildsEnabled": false,
     "GameEventDeadline": 1740787200,
     "MinimumPlaytimeForLeaderboard": 43200,
     "RollBackData": false,
