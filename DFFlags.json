@@ -10,7 +10,7 @@
     "CountryJoiningLockCanada": false,
     "CountryJoiningLockPhilippines": false,
     "CountryJoiningLockVietnam": false,
-    "GuildsEnabled": false,
+    "GuildsEnabled": true,
     "GameEventDeadline": 1740787200,
     "MinimumPlaytimeForLeaderboard": 43200,
     "RollBackData": false,
