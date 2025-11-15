@@ -28,6 +28,7 @@
     "GuildNameMinChars": 5,
     "GuildNameMaxChars": 25,
     "GuildGemsCost": 1000,
+    "GuildTokensTotalRequirement": 1000000,
     "MutationBuffsGemCost": 10,
     "MaxRatedUsersSocialRating": 1000,
     "RateCooldownSocialRating": 60,
